@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="EMExposure">
+    <file>Resources/EM.png</file>
+  </qresource>
+</RCC>

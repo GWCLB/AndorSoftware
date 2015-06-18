@@ -1,0 +1,30 @@
+﻿生成启动时间为 2015/6/18 10:15:04。
+     1>项目“D:\Git\AndorSoftware\AndorSoftware\AndorSoftware.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Uic'ing andorsoftware.ui...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /I"D:\QT\qt-opensource-windows-x86-msvc2013_opengl-5.4.0\5.4\msvc2013_opengl\include" /I.\GeneratedFiles\Debug /I"D:\QT\qt-opensource-windows-x86-msvc2013_opengl-5.4.0\5.4\msvc2013_opengl\include\QtCore" /I"D:\QT\qt-opensource-windows-x86-msvc2013_opengl-5.4.0\5.4\msvc2013_opengl\include\QtGui" /I"D:\QT\qt-opensource-windows-x86-msvc2013_opengl-5.4.0\5.4\msvc2013_opengl\include\QtWidgets" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_andorsoftware.cpp andorsoftware.cpp main.cpp
+         moc_andorsoftware.cpp
+         andorsoftware.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git\AndorSoftware\Win32\Debug\\AndorSoftware.exe" /NOLOGO /LIBPATH:"D:\QT\qt-opensource-windows-x86-msvc2013_opengl-5.4.0\5.4\msvc2013_opengl\lib" qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Git\AndorSoftware\Win32\Debug\AndorSoftware.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Git\AndorSoftware\Win32\Debug\AndorSoftware.lib" /MACHINE:X86 /SAFESEH Debug\andorsoftware.obj
+         Debug\andorThread.obj
+         Debug\emadvanced.obj
+         Debug\emexposure.obj
+         Debug\moc_andorsoftware.obj
+         Debug\moc_andorThread.obj
+         Debug\moc_emadvanced.obj
+         Debug\moc_emexposure.obj
+         Debug\moc_setting.obj
+         Debug\qrc_andorsoftware.obj
+         Debug\main.obj
+         Debug\setting.obj
+         ..\andorSDK\atmcd32m.lib
+         AndorSoftware.vcxproj -> D:\Git\AndorSoftware\Win32\Debug\AndorSoftware.exe
+     1>已完成生成项目“D:\Git\AndorSoftware\AndorSoftware\AndorSoftware.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.69

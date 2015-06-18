@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="AndorSoftware">
+    <file>Resources/ImageProcessing.png</file>
+    <file>Resources/EM.png</file>
+    <file>Resources/about.png</file>
+    <file>Resources/aboutqt.png</file>
+    <file>Resources/Help.png</file>
+    <file>Resources/abort.png</file>
+    <file>Resources/camera.png</file>
+    <file>Resources/ContinuousShooting.png</file>
+    <file>Resources/ImageProcess.png</file>
+    <file>Resources/open.png</file>
+    <file>Resources/save.png</file>
+    <file>Resources/set.png</file>
+    <file>Resources/version.png</file>
+    <file>Resources/video.png</file>
+    <file>Resources/xidian.png</file>
+  </qresource>
+</RCC>
